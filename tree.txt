@@ -1,6 +1,5 @@
 package compensation;
 
-
 public class Tree {
 	
  String treeName;

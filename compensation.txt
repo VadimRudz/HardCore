@@ -1,4 +1,4 @@
-package compensation;
+﻿package compensation;
 
 import java.awt.Color;
 import java.awt.ComponentOrientation;
@@ -1372,10 +1372,12 @@ public class Compensation_v_2_0 extends JFrame{
 							if(e.getStateChange()==1 && i == 3){tree.K3=0.5; System.out.println(tree.K3);};
 							if(e.getStateChange()==1 && i == 4){tree.K4=0.1; System.out.println(tree.K4);};
 							
-						}    
+						} 
+   
 			          });   
 			  
 			    }
 			    
 }
 
+Hello world from home computer!
